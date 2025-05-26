@@ -14,7 +14,7 @@
  - 포트홀 탐지 시 자동으로 휴머노이드에 특정 모션 실행
 
 
-## 사용용방법
+## 사용 방법
 ### 1. 깃허브 리포지토리 가져오기
 #### yolov5
  - https://github.com/ultralytics/yolov5.git
